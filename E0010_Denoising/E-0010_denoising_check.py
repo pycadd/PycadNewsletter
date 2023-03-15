@@ -9,5 +9,5 @@ denoised_image = io.imread('./data/e-0010_denoised.png', as_gray=True)
 psnr = metrics.peak_signal_noise_ratio(noisy_image, denoised_image)
 ssim = metrics.structural_similarity(noisy_image, denoised_image)
 
-print('PSNR:', psnr)
+print('PSNR:', psnr) 
 print('SSIM:', ssim)
