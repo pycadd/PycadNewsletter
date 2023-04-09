@@ -1,0 +1,3 @@
+[submodule "E0013_SAM/SAM-Medical-Imaging"]
+	path = E0013_SAM/SAM-Medical-Imaging
+	url = https://github.com/amine0110/SAM-Medical-Imaging
