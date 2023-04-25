@@ -1,3 +1,6 @@
 [submodule "E0013_SAM/SAM-Medical-Imaging"]
 	path = E0013_SAM/SAM-Medical-Imaging
 	url = https://github.com/amine0110/SAM-Medical-Imaging
+[submodule "E0015_Dropbox/dropbox-automations"]
+	path = E0015_Dropbox/dropbox-automations
+	url = https://github.com/amine0110/dropbox-automations
