@@ -4,3 +4,6 @@
 [submodule "E0015_Dropbox/dropbox-automations"]
 	path = E0015_Dropbox/dropbox-automations
 	url = https://github.com/amine0110/dropbox-automations
+[submodule "E0016_Shap-E/medical-shap-e"]
+	path = E0016_Shap-E/medical-shap-e
+	url = https://github.com/amine0110/medical-shap-e
