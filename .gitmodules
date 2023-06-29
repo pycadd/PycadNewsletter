@@ -7,3 +7,6 @@
 [submodule "E0016_Shap-E/medical-shap-e"]
 	path = E0016_Shap-E/medical-shap-e
 	url = https://github.com/amine0110/medical-shap-e
+[submodule "E0021_STL_Visualization/STL-Visualization"]
+	path = E0021_STL_Visualization/STL-Visualization
+	url = https://github.com/amine0110/STL-Visualization
